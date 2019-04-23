@@ -3,4 +3,4 @@ function doubleResult(n){
 }
 
 var result = doubleResult(10)
-console.log(result)
+console.log(`Result : ${result}`)
